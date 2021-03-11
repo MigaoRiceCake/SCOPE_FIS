@@ -2,13 +2,13 @@
 
 ## Year 1 Semester B
 
-#### Current Technologies
+### Current Technologies
 
-#### Introduction to Computing
+### Introduction to Computing
 
 ## Year 1 Semester A (DIDF)
 
-#### Foundation in Information Systems
+### Foundation in Information Systems
 
 [Lab 3 Part 1](./lab3part1.md)
 
